@@ -5,7 +5,9 @@
 4. Visual
 5. Otros
 */
-
+::-webkit-scrollbar {
+    display: none;
+}
 :root {
     /* COLORES */
     --bitcoin-orange: #f7931a;
